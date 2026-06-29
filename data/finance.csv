@@ -1,1 +1,855 @@
-﻿
+TransactionID,Date,Type,Category,SubCategory,Amount,PaymentMethod,Merchant
+TXN0001,2025-01-01,Income,Salary,Monthly Salary,32050.02,Bank Transfer,TechCorp A.S.
+TXN0002,2025-01-01,Expense,Savings,Mutual Fund,-4560.44,Cash,Garanti BBVA
+TXN0003,2025-01-01,Expense,Education,Book,-106.63,Cash,Coursera
+TXN0004,2025-01-01,Expense,Food,Restaurant,-631.15,Debit Card,Starbucks
+TXN0005,2025-01-01,Expense,Housing,Rent,-8500.0,Bank Transfer,Landlord
+TXN0006,2025-01-02,Expense,Food,Groceries,-68.05,Debit Card,Getir
+TXN0007,2025-01-02,Expense,Food,Groceries,-369.53,Credit Card,Getir
+TXN0008,2025-01-03,Expense,Utilities,Internet,-50.38,Cash,ASKI
+TXN0009,2025-01-03,Expense,Personal Care,Haircut,-615.37,,Gratis
+TXN0010,2025-01-03,Expense,Health,Pharmacy,-1337.69,Debit Card,Acibadem
+TXN0011,2025-01-03,Expense,Utilities,Phone,-114.67,Credit Card,Superonline
+TXN0012,2025-01-04,Expense,Food,Groceries,-499.79,Debit Card,Starbucks
+TXN0013,2025-01-04,Expense,Entertainment,Cinema,-54.38,Cash,Netflix
+TXN0014,2025-01-04,Expense,Entertainment,Streaming,-182.42,Credit Card,Biletix
+TXN0018,2025-01-05,Expense,Transportation,Taxi,-59.8,Credit Card,Shell
+TXN0017,2025-01-05,Expense,Shopping,Clothing,-1326.48,Credit Card,IKEA
+TXN0015,2025-01-05,Expense,Entertainment,Streaming,-868.89,Cash,Biletix
+TXN0016,2025-01-05,Expense,Shopping,Clothing,-2475.0,Debit Card,IKEA
+TXN0019,2025-01-06,Expense,Utilities,Electricity,-56.69,Cash,Enerjisa
+TXN0020,2025-01-07,Expense,Shopping,Clothing,-2930.44,Cash,IKEA
+TXN0021,2025-01-08,Expense,Shopping,Electronics,-400.67,Debit Card,Trendyol
+TXN0022,2025-01-08,Expense,Food,Groceries,-264.84,Cash,Starbucks
+TXN0023,2025-01-09,Expense,Food,Groceries,-318.48,Debit Card,Starbucks
+TXN0024,2025-01-09,Expense,Personal Care,Haircut,-753.14,Credit Card,Sephora
+TXN0025,2025-01-10,Expense,Shopping,Clothing,-901.14,Credit Card,MediaMarkt
+TXN0026,2025-01-10,Expense,Personal Care,Cosmetics,-526.5,Debit Card,Gratis
+TXN0027,2025-01-11,Expense,Utilities,Water,-49.45,Credit Card,Superonline
+TXN0028,2025-01-11,Expense,Personal Care,Haircut,-457.28,Cash,Sephora
+TXN0029,2025-01-13,Expense,food,Restaurant,-620.1,Credit Card,Migros
+TXN0032,2025-01-14,Income,Freelance,Freelance Project,3403.53,Bank Transfer,Direct Client
+TXN0033,2025-01-14,Expense,Transportation,Taxi,-247.02,Cash,BiTaksi
+TXN0030,2025-01-14,Expense,Food,Restaurant,-568.78,Credit Card,Getir
+TXN0031,2025-01-14,Expense,Food,Cafe,-636.01,Debit Card,CarrefourSA
+TXN0034,2025-01-14,Expense,Savings,Mutual Fund,-1821.78,Cash,Garanti BBVA
+TXN0036,2025-01-16,Expense,Shopping,Electronics,-914.26,Cash,IKEA
+TXN0035,2025-01-16,Expense,Entertainment,Concert,-592.04,Debit Card,Cinemaximum
+TXN0037,2025-01-17,Expense,Shopping,Clothing,-1639.73,Credit Card,IKEA
+TXN0038,2025-01-17,Expense,Transportation,Public Transport,-155.14,Debit Card,Ankara EGO
+TXN0039,2025-01-18,Expense,Food,Restaurant,-620.51,Credit Card,CarrefourSA
+TXN0040,2025-01-19,Expense,Entertainment,Concert,-335.12,Cash,Spotify
+TXN0041,2025-01-19,Expense,Food,Groceries,-580.33,Debit Card,Getir
+TXN0042,2025-01-19,Expense,Entertainment,Concert,-602.36,Credit Card,Biletix
+TXN0044,2025-01-20,Expense,Food,Restaurant,-433.25,Credit Card,Migros
+TXN0043,2025-01-20,Expense,food,Restaurant,-417.13,Cash,Getir
+TXN0045,2025-01-21,Expense,Transportation,Public Transport,-300.3,Cash,Shell
+TXN0046,2025-01-21,Expense,Food,Restaurant,-78.35,Debit Card,Getir
+TXN0047,2025-01-22,Expense,Transportation,Taxi,-177.73,Debit Card,Ankara EGO
+TXN0048,2025-01-22,Expense,Transportation,Public Transport,-434.5,Cash,Shell
+TXN0049,2025-01-22,Expense,Transportation,Taxi,-120.91,Cash,Petrol Ofisi
+TXN0050,2025-01-22,Expense,Savings,Gold,-1181.85,Cash,IsYatirim
+TXN0054,2025-01-23,Expense,Transportation,Public Transport,-208.39,Cash,Petrol Ofisi
+TXN0055,2025-01-23,Expense,Education,Book,-1349.63,Debit Card,Coursera
+TXN0053,2025-01-23,Expense,Shopping,Electronics,-2653.51,Debit Card,MediaMarkt
+TXN0052,2025-01-23,Expense,Shopping,Electronics,-3293.71,Debit Card,Trendyol
+TXN0051,2025-01-23,Expense,Food,Groceries,-138.57,Debit Card,CarrefourSA
+TXN0056,2025-01-24,Expense,Food,Cafe,-44.69,Debit Card,Migros
+TXN0057,2025-01-24,Expense,Transportation,Taxi,-197.2,Debit Card,Ankara EGO
+TXN0058,2025-01-24,Expense,Education,Course,-718.64,Cash,D&R
+TXN0059,2025-01-25,Expense,Health,Doctor,-1222.71,Credit Card,Eczane
+TXN0060,2025-01-25,Expense,Food,Cafe,-318.84,Credit Card,Local Cafe
+TXN0061,2025-01-26,Expense,Food,Cafe,-541.23,Debit Card,Starbucks
+TXN0062,2025-01-26,Expense,Food,Restaurant,-317.37,Debit Card,Getir
+TXN0063,2025-01-26,Expense,Food,Restaurant,-295.06,Credit Card,Local Cafe
+TXN0064,2025-01-26,Expense,Food,Cafe,-214.31,Credit Card,Starbucks
+TXN0065,2025-01-26,Expense,Entertainment,Concert,-88.92,Cash,Spotify
+TXN0066,2025-01-26,Expense,Shopping,Electronics,-2367.49,Debit Card,IKEA
+TXN0067,2025-01-27,Expense,Food,Restaurant,-101.33,Credit Card,Starbucks
+TXN0068,2025-01-28,Expense,Food,Restaurant,-82.97,Credit Card,
+TXN0069,2025-01-30,Expense,Entertainment,Concert,-683.26,Credit Card,
+TXN0074,2025-01-31,Expense,Food,Cafe,-512.36,Cash,Getir
+TXN0072,2025-01-31,Expense,Personal Care,Haircut,-790.18,Credit Card,Sephora
+TXN0073,2025-01-31,Expense,Entertainment,Concert,-616.21,Debit Card,Cinemaximum
+TXN0071,2025-01-31,Expense,Personal Care,Haircut,-421.14,Cash,Beauty Salon
+TXN0070,2025-01-31,Expense,Shopping,Home,-2358.6,Credit Card,IKEA
+TXN0075,2025-02-01,Expense,Housing,Rent,-8500.0,Bank Transfer,Landlord
+TXN0076,2025-02-02,Expense,Food,Restaurant,-222.85,Credit Card,Starbucks
+TXN0077,2025-02-02,Expense,Health,Pharmacy,-1230.59,Debit Card,Medical Park
+TXN0078,2025-02-03,Expense,Utilities,Electricity,-141.84,Cash,ASKI
+TXN0079,2025-02-04,Expense,Transportation,Taxi,-391.46,Cash,Shell
+TXN0080,2025-02-04,Expense,Shopping,Clothing,-1844.21,Debit Card,Trendyol
+TXN0081,2025-02-05,Expense,Food,Cafe,-95.97,Cash,Migros
+TXN0082,2025-02-06,Expense,Food,Groceries,-102.95,Debit Card,Migros
+TXN0083,2025-02-07,Expense,Savings,FX,-1262.73,Debit Card,IsYatirim
+TXN0084,2025-02-07,Expense,Transportation,Public Transport,-417.02,Cash,BiTaksi
+TXN0089,2025-02-08,Expense,Food,Groceries,-590.52,Debit Card,Getir
+TXN0088,2025-02-08,Expense,Food,Cafe,-323.01,Cash,Starbucks
+TXN0090,2025-02-08,Expense,Utilities,Internet,-51.55,Credit Card,Superonline
+TXN0086,2025-02-08,Expense,Entertainment,Streaming,-609.7,Credit Card,Biletix
+TXN0085,2025-02-08,Expense,Utilities,Phone,-154.03,Credit Card,Turkcell
+TXN0087,2025-02-08,Expense,Entertainment,Concert,-127.64,Debit Card,Spotify
+TXN0091,2025-02-09,Expense,Utilities,Water,-84.28,Credit Card,ASKI
+TXN0092,2025-02-09,Expense,Entertainment,Streaming,-819.09,Debit Card,Spotify
+TXN0093,2025-02-09,Expense,Food,Groceries,-454.79,Credit Card,Local Cafe
+TXN0094,2025-02-10,Expense,Entertainment,Streaming,-501.3,Debit Card,Spotify
+TXN0095,2025-02-10,Expense,Food,Groceries,-374.77,Cash,Getir
+TXN0097,2025-02-11,Expense,Entertainment,Concert,-107.17,Cash,Cinemaximum
+TXN0096,2025-02-11,Expense,Savings,Gold,-3700.85,Credit Card,IsYatirim
+TXN0098,2025-02-13,Expense,Food,Cafe,-569.05,Credit Card,Starbucks
+TXN0099,2025-02-13,Expense,Entertainment,Concert,-588.01,Debit Card,Spotify
+TXN0100,2025-02-13,Expense,Food,Restaurant,-378.66,Credit Card,Starbucks
+TXN0101,2025-02-13,Expense,Entertainment,Streaming,-253.06,Debit Card,Netflix
+TXN0102,2025-02-14,Expense,Transportation,Public Transport,-431.9,Cash,BiTaksi
+TXN0103,2025-02-14,Expense,food,Restaurant,-497.79,Cash,Getir
+TXN0106,2025-02-15,Expense,Food,Groceries,-88.82,Credit Card,CarrefourSA
+TXN0104,2025-02-15,Expense,Shopping,Clothing,-3209.32,Credit Card,Zara
+TXN0105,2025-02-15,Expense,Food,Restaurant,-286.07,Debit Card,Starbucks
+TXN0109,2025-02-16,Expense,Shopping,Home,-319.44,Debit Card,Zara
+TXN0109,2025-02-16,Expense,Shopping,Home,-319.44,Debit Card,Zara
+TXN0107,2025-02-16,Expense,Health,Pharmacy,-1058.54,Debit Card,Medical Park
+TXN0108,2025-02-16,Expense,Transportation,Fuel,-235.75,Cash,Shell
+TXN0111,2025-02-17,Expense,Transportation,Taxi,-359.64,Debit Card,Petrol Ofisi
+TXN0112,2025-02-17,Expense,Transportation,Taxi,-354.98,Debit Card,BiTaksi
+TXN0113,2025-02-17,Expense,Shopping,Electronics,-2997.86,Cash,MediaMarkt
+TXN0114,2025-02-17,Expense,Shopping,Electronics,-1395.68,Cash,Zara
+TXN0110,2025-02-17,Expense,Food,Restaurant,-226.79,Cash,Getir
+TXN0115,2025-02-18,Expense,Food,Groceries,-237.4,Credit Card,Starbucks
+TXN0116,2025-02-19,Expense,Food,Cafe,-44.47,Credit Card,Local Cafe
+TXN0117,2025-02-19,Expense,food,Cafe,-277.07,Debit Card,Getir
+TXN0118,2025-02-21,Expense,Food,Groceries,-485.31,Debit Card,Local Cafe
+TXN0119,2025-02-21,Expense,Education,Course,-1309.16,Debit Card,D&R
+TXN0120,2025-02-21,Expense,Shopping,Electronics,-1553.07,Credit Card,Trendyol
+TXN0121,2025-02-21,Expense,Food,Groceries,-233.85,Debit Card,Getir
+TXN0122,2025-02-22,Expense,Shopping,Home,-1104.96,Credit Card,Zara
+TXN0123,2025-02-22,Expense,Food,Groceries,-313.79,Cash,Starbucks
+TXN0124,2025-02-22,Expense,Savings,Mutual Fund,-1913.62,Cash,IsYatirim
+TXN0125,2025-02-23,Expense,Food,Groceries,-547.1,Cash,Migros
+TXN0127,2025-02-24,Expense,Food,Restaurant,-259.55,Debit Card,Starbucks
+TXN0126,2025-02-24,Expense,Food,Groceries,-125.67,Cash,Starbucks
+TXN0128,2025-02-25,Expense,Food,Cafe,-457.46,Credit Card,Local Cafe
+TXN0129,2025-02-25,Expense,Transportation,Fuel,-130.66,Debit Card,Petrol Ofisi
+TXN0130,2025-02-25,Expense,Transportation,Public Transport,-387.83,Debit Card,BiTaksi
+TXN0131,2025-02-26,Expense,Shopping,Clothing,-199.78,Credit Card,Trendyol
+TXN0132,2025-02-27,Expense,Food,Cafe,-163.32,Cash,Local Cafe
+TXN0133,2025-02-27,Expense,Food,Cafe,-415.1,Credit Card,Starbucks
+TXN0134,2025-02-27,Expense,Savings,FX,-1253.34,Cash,IsYatirim
+TXN0141,2025-02-28,Expense,Transportation,Public Transport,-421.96,Cash,BiTaksi
+TXN0140,2025-02-28,Income,Salary,Monthly Salary,33178.53,Bank Transfer,TechCorp A.S.
+TXN0139,2025-02-28,Expense,Savings,Mutual Fund,-2720.28,Credit Card,IsYatirim
+TXN0137,2025-02-28,Expense,Health,Pharmacy,-209.18,Credit Card,Acibadem
+TXN0136,2025-02-28,Expense,Transportation,Fuel,-383.22,Credit Card,Ankara EGO
+TXN0135,2025-02-28,Expense,Entertainment,Cinema,-221.21,Credit Card,Biletix
+TXN0138,2025-02-28,Expense,Food,Groceries,-355.82,Cash,Starbucks
+TXN0142,2025-03-01,Expense,Transportation,Taxi,-145.99,Cash,Ankara EGO
+TXN0143,2025-03-01,Expense,Housing,Rent,-8500.0,Bank Transfer,Landlord
+TXN0144,2025-03-01,Expense,Transportation,Public Transport,-257.32,Cash,Petrol Ofisi
+TXN0147,2025-03-02,Expense,Shopping,Electronics,-485.93,Cash,Trendyol
+TXN0147,2025-03-02,Expense,Shopping,Electronics,-485.93,Cash,Trendyol
+TXN0146,2025-03-02,Expense,Food,Restaurant,-170.89,Cash,Starbucks
+TXN0145,2025-03-02,Expense,Shopping,Electronics,-2480.35,Cash,Trendyol
+TXN0148,2025-03-03,Expense,Savings,FX,-2652.43,Credit Card,Garanti BBVA
+TXN0151,2025-03-04,Expense,Food,Groceries,-160.86,Debit Card,Getir
+TXN0149,2025-03-04,Expense,Utilities,Phone,-89.77,Cash,Superonline
+TXN0150,2025-03-04,Expense,Food,Cafe,-527.58,Cash,Local Cafe
+TXN0152,2025-03-05,Expense,Entertainment,Cinema,-179.29,Cash,Spotify
+TXN0153,2025-03-06,Expense,Utilities,Internet,-143.8,Credit Card,Enerjisa
+TXN0154,2025-03-07,Expense,Shopping,Home,-3322.19,Debit Card,Trendyol
+TXN0156,2025-03-07,Expense,Personal Care,Haircut,-565.35,Cash,Gratis
+TXN0155,2025-03-07,Expense,Food,Restaurant,-66.04,Debit Card,Migros
+TXN0157,2025-03-08,Expense,Utilities,Water,-116.89,Credit Card,Enerjisa
+TXN0158,2025-03-08,Expense,Shopping,Clothing,-1186.12,Cash,Zara
+TXN0159,2025-03-08,Expense,Food,Restaurant,-241.64,Cash,Migros
+TXN0160,2025-03-09,Income,Freelance,Freelance Project,2354.54,Bank Transfer,Upwork
+TXN0161,2025-03-09,Expense,Shopping,Electronics,-1209.19,Credit Card,IKEA
+TXN0162,2025-03-09,Expense,Entertainment,Cinema,-520.57,Cash,Netflix
+TXN0163,2025-03-09,Expense,Entertainment,Streaming,-195.53,Cash,Spotify
+TXN0164,2025-03-09,Expense,Utilities,Electricity,-48.34,Cash,Turkcell
+TXN0165,2025-03-09,Expense,Food,Restaurant,-495.96,Credit Card,CarrefourSA
+TXN0166,2025-03-10,Expense,Transportation,Public Transport,-381.3,Credit Card,BiTaksi
+TXN0167,2025-03-10,Expense,Transportation,Taxi,-392.66,Debit Card,Petrol Ofisi
+TXN0168,2025-03-10,Expense,Food,Groceries,-134.82,Debit Card,Local Cafe
+TXN0169,2025-03-10,Expense,Transportation,Fuel,-80.55,Debit Card,BiTaksi
+TXN0170,2025-03-11,Expense,Health,Pharmacy,-171.51,Debit Card,Eczane
+TXN0171,2025-03-11,Expense,Savings,FX,-2359.5,Cash,Garanti BBVA
+TXN0175,2025-03-12,Expense,Shopping,Clothing,-3342.6,Cash,IKEA
+TXN0174,2025-03-12,Expense,Savings,Gold,-4496.47,Cash,Garanti BBVA
+TXN0173,2025-03-12,Expense,Entertainment,Cinema,-598.62,Credit Card,
+TXN0172,2025-03-12,Expense,Personal Care,Cosmetics,-889.5,Debit Card,Gratis
+TXN0176,2025-03-13,Expense,Food,Groceries,-647.52,Credit Card,CarrefourSA
+TXN0177,2025-03-14,Expense,Transportation,Public Transport,-397.53,Cash,Petrol Ofisi
+TXN0178,2025-03-14,Expense,Transportation,Fuel,-189.73,Debit Card,Ankara EGO
+TXN0179,2025-03-15,Expense,Food,Cafe,-624.01,Credit Card,CarrefourSA
+TXN0180,2025-03-15,Expense,Transportation,Taxi,-395.0,Debit Card,Ankara EGO
+TXN0181,2025-03-16,Expense,Food,Cafe,-393.28,Debit Card,Local Cafe
+TXN0182,2025-03-16,Expense,Shopping,Clothing,-1789.69,Cash,IKEA
+TXN0183,2025-03-17,Expense,Food,Restaurant,-355.15,Debit Card,Getir
+TXN0184,2025-03-17,Expense,Shopping,Clothing,-2757.71,Credit Card,Zara
+TXN0185,2025-03-17,Expense,Savings,FX,-4643.22,Credit Card,Garanti BBVA
+TXN0186,2025-03-17,Expense,Food,Groceries,-281.71,,
+TXN0189,2025-03-18,Expense,Food,Cafe,-110.91,Credit Card,Starbucks
+TXN0187,2025-03-18,Expense,Food,Cafe,-193.98,Debit Card,Local Cafe
+TXN0188,2025-03-18,Expense,Entertainment,Cinema,-409.62,Credit Card,Spotify
+TXN0190,2025-03-20,Expense,Transportation,Taxi,-222.53,Cash,BiTaksi
+TXN0191,2025-03-20,Expense,Food,Cafe,-245.95,Cash,Local Cafe
+TXN0192,2025-03-20,Expense,Shopping,Electronics,-1654.37,Cash,Zara
+TXN0193,2025-03-21,Expense,Education,Course,-1465.74,Credit Card,
+TXN0194,2025-03-21,Expense,Food,Restaurant,-71.02,Cash,
+TXN0195,2025-03-23,Expense,Transportation,Fuel,-69.27,Credit Card,Petrol Ofisi
+TXN0196,2025-03-23,Expense,Transportation,Public Transport,-135.13,Debit Card,Petrol Ofisi
+TXN0197,2025-03-23,Expense,Food,Cafe,-286.06,Cash,Local Cafe
+TXN0198,2025-03-26,Expense,Food,Cafe,-482.85,Credit Card,CarrefourSA
+TXN0199,2025-03-26,Expense,Food,Restaurant,-495.4,Debit Card,CarrefourSA
+TXN0200,2025-03-27,Expense,Shopping,Clothing,-1646.21,Debit Card,MediaMarkt
+TXN0201,2025-03-28,Expense,Shopping,Electronics,-462.85,Credit Card,MediaMarkt
+TXN0202,2025-03-28,Income,Salary,Monthly Salary,33072.46,Bank Transfer,TechCorp A.S.
+TXN0203,2025-03-28,Expense,Food,Cafe,-152.27,Cash,Starbucks
+TXN0202,2025-03-28,Income,Salary,Monthly Salary,33072.46,Bank Transfer,TechCorp A.S.
+TXN0207,2025-03-30,Expense,Transportation,Taxi,-284.48,Cash,BiTaksi
+TXN0204,2025-03-30,Expense,Health,Pharmacy,-725.47,Credit Card,Eczane
+TXN0206,2025-03-30,Expense,Education,Course,-1224.18,Credit Card,Udemy
+TXN0205,2025-03-30,Expense,Health,Doctor,-728.69,Cash,Medical Park
+TXN0208,2025-03-31,Expense,Transportation,Taxi,-85.49,Cash,BiTaksi
+TXN0209,2025-03-31,Expense,Savings,Mutual Fund,-4923.28,Debit Card,Garanti BBVA
+TXN0210,2025-03-31,Expense,Savings,FX,-4206.38,Debit Card,Garanti BBVA
+TXN0211,2025-04-01,Income,Salary,Monthly Salary,32325.31,Bank Transfer,TechCorp A.S.
+TXN0212,2025-04-01,Expense,Health,Doctor,-691.02,Credit Card,Eczane
+TXN0213,2025-04-01,Expense,Shopping,Home,-2213.31,Cash,MediaMarkt
+TXN0214,2025-04-01,Expense,Housing,Rent,-8500.0,Bank Transfer,Landlord
+TXN0215,2025-04-01,Expense,Food,Restaurant,-597.53,Credit Card,CarrefourSA
+TXN0216,2025-04-02,Expense,Transportation,Taxi,-155.3,Credit Card,Ankara EGO
+TXN0217,2025-04-02,Expense,Entertainment,Concert,-650.9,Debit Card,Cinemaximum
+TXN0218,2025-04-02,Expense,Transportation,Taxi,-145.54,Debit Card,Petrol Ofisi
+TXN0220,2025-04-03,Expense,Health,Doctor,-1191.79,Debit Card,Acibadem
+TXN0219,2025-04-03,Expense,Shopping,Home,-3342.57,Debit Card,Zara
+TXN0221,2025-04-04,Expense,Entertainment,Cinema,-332.69,Cash,Cinemaximum
+TXN0222,2025-04-05,Expense,Utilities,Water,-110.94,Credit Card,ASKI
+TXN0223,2025-04-06,Expense,Food,Restaurant,-61.14,Cash,Getir
+TXN0224,2025-04-06,Expense,Transportation,Fuel,-79.13,Cash,Petrol Ofisi
+TXN0226,2025-04-07,Expense,Personal Care,Haircut,-394.04,Debit Card,Sephora
+TXN0225,2025-04-07,Expense,Utilities,Electricity,-134.0,Cash,Enerjisa
+TXN0227,2025-04-08,Expense,Utilities,Phone,-153.39,Credit Card,Enerjisa
+TXN0228,2025-04-08,Expense,Food,Groceries,-206.66,Debit Card,CarrefourSA
+TXN0230,2025-04-10,Expense,Transportation,Taxi,-244.3,Debit Card,Petrol Ofisi
+TXN0229,2025-04-10,Expense,Utilities,Internet,-89.68,Cash,ASKI
+TXN0231,2025-04-11,Expense,Shopping,Home,-654.4,Debit Card,
+TXN0232,2025-04-11,Expense,Shopping,Home,-569.32,Debit Card,MediaMarkt
+TXN0233,2025-04-12,Expense,Personal Care,Cosmetics,-274.51,Cash,Beauty Salon
+TXN0234,2025-04-13,Expense,Food,Cafe,-363.82,Debit Card,CarrefourSA
+TXN0235,2025-04-14,Expense,Health,Doctor,-254.08,Debit Card,Medical Park
+TXN0236,2025-04-14,Expense,Personal Care,Haircut,-327.53,Debit Card,Sephora
+TXN0237,2025-04-15,Expense,Health,Pharmacy,-986.13,Credit Card,Acibadem
+TXN0238,2025-04-15,Expense,Transportation,Fuel,-393.37,Debit Card,BiTaksi
+TXN0239,2025-04-15,Expense,Transportation,Public Transport,-292.2,Credit Card,Shell
+TXN0242,2025-04-16,Expense,Shopping,Electronics,-1367.2,Credit Card,MediaMarkt
+TXN0241,2025-04-16,Expense,Personal Care,Cosmetics,-534.37,Cash,Sephora
+TXN0240,2025-04-16,Expense,Shopping,Home,-1158.74,Cash,Zara
+TXN0243,2025-04-16,Expense,Health,Pharmacy,-453.44,Debit Card,Medical Park
+TXN0245,2025-04-17,Expense,Entertainment,Streaming,-705.96,Cash,Cinemaximum
+TXN0246,2025-04-17,Expense,Entertainment,Concert,-491.91,Debit Card,Biletix
+TXN0247,2025-04-17,Income,Freelance,Freelance Project,1509.7,Bank Transfer,Direct Client
+TXN0244,2025-04-17,Expense,Shopping,Electronics,-935.59,Credit Card,MediaMarkt
+TXN0248,2025-04-18,Expense,Shopping,Clothing,-2949.48,Credit Card,IKEA
+TXN0249,2025-04-18,Expense,Food,Groceries,-196.56,Credit Card,CarrefourSA
+TXN0250,2025-04-19,Expense,Health,Doctor,-427.34,Credit Card,Acibadem
+TXN0251,2025-04-20,Expense,Food,Cafe,-392.18,Cash,
+TXN0252,2025-04-20,Expense,Savings,Mutual Fund,-3710.78,Debit Card,IsYatirim
+TXN0253,2025-04-21,Expense,Transportation,Public Transport,-99.77,Debit Card,BiTaksi
+TXN0254,2025-04-21,Expense,Transportation,Fuel,-76.19,Debit Card,BiTaksi
+TXN0256,2025-04-22,Expense,Entertainment,Streaming,-336.29,Credit Card,Biletix
+TXN0255,2025-04-22,Expense,Transportation,Public Transport,-104.7,Cash,BiTaksi
+TXN0259,2025-04-23,Expense,Savings,Mutual Fund,-4178.46,Credit Card,IsYatirim
+TXN0257,2025-04-23,Expense,Shopping,Home,-2420.51,Cash,MediaMarkt
+TXN0258,2025-04-23,Expense,Food,Restaurant,-219.94,Cash,
+TXN0260,2025-04-24,Expense,Shopping,Home,-3186.86,Cash,IKEA
+TXN0262,2025-04-24,Expense,Shopping,Electronics,-533.99,Cash,Trendyol
+TXN0261,2025-04-24,Expense,Health,Doctor,-527.13,Debit Card,Eczane
+TXN0263,2025-04-25,Expense,Savings,FX,-1459.54,Debit Card,Garanti BBVA
+TXN0264,2025-04-25,Expense,Food,Groceries,-184.41,Debit Card,Getir
+TXN0265,2025-04-25,Expense,Savings,FX,-3866.63,Debit Card,Garanti BBVA
+TXN0266,2025-04-26,Expense,Transportation,Taxi,-426.82,Debit Card,BiTaksi
+TXN0267,2025-04-26,Expense,Savings,Mutual Fund,-1604.52,Cash,IsYatirim
+TXN0268,2025-04-28,Expense,Entertainment,Concert,-101.98,Cash,Cinemaximum
+TXN0269,2025-04-29,Expense,Savings,FX,-4875.68,Debit Card,Garanti BBVA
+TXN0270,2025-04-29,Expense,Transportation,Fuel,-55.51,Debit Card,Ankara EGO
+TXN0271,2025-04-29,Expense,Food,Groceries,-112.93,Cash,CarrefourSA
+TXN0274,2025-04-30,Expense,Shopping,Clothing,-152.29,Cash,IKEA
+TXN0273,2025-04-30,Expense,Food,Groceries,-593.71,Debit Card,Local Cafe
+TXN0272,2025-04-30,Expense,Health,Doctor,-737.61,Cash,Medical Park
+TXN0277,2025-05-01,Expense,Housing,Rent,-8500.0,Bank Transfer,Landlord
+TXN0275,2025-05-01,Expense,Food,Restaurant,-89.15,Credit Card,Local Cafe
+TXN0276,2025-05-01,Income,Salary,Monthly Salary,33610.09,Bank Transfer,TechCorp A.S.
+TXN0278,2025-05-02,Expense,Food,Restaurant,-467.44,Cash,Starbucks
+TXN0279,2025-05-02,Expense,Transportation,Fuel,-363.03,Credit Card,Ankara EGO
+TXN0280,2025-05-03,Expense,food,Groceries,-110.75,Cash,
+TXN0281,2025-05-04,Expense,Utilities,Electricity,-66.51,Credit Card,Turkcell
+TXN0282,2025-05-04,Expense,Food,Groceries,-60.48,Cash,Local Cafe
+TXN0283,2025-05-04,Expense,Transportation,Public Transport,-142.76,Credit Card,Petrol Ofisi
+TXN0284,2025-05-05,Expense,Personal Care,Haircut,-760.45,Cash,Beauty Salon
+TXN0285,2025-05-05,Expense,food,Cafe,-156.38,Debit Card,Migros
+TXN0290,2025-05-07,Expense,Shopping,Electronics,-2709.57,Credit Card,Zara
+TXN0289,2025-05-07,Expense,Utilities,Internet,-56.7,Cash,Turkcell
+TXN0288,2025-05-07,Expense,Transportation,Fuel,-114.53,Cash,BiTaksi
+TXN0286,2025-05-07,Expense,Food,Restaurant,-614.31,Debit Card,Getir
+TXN0287,2025-05-07,Expense,Food,Groceries,-200.32,,Starbucks
+TXN0291,2025-05-08,Expense,Food,Restaurant,-118.65,Debit Card,CarrefourSA
+TXN0292,2025-05-08,Expense,Entertainment,Concert,-709.91,Cash,Cinemaximum
+TXN0294,2025-05-09,Expense,Food,Groceries,-398.14,Credit Card,Local Cafe
+TXN0293,2025-05-09,Expense,Utilities,Phone,-160.95,Debit Card,Superonline
+TXN0295,2025-05-10,Expense,Shopping,Home,-1266.76,Cash,Trendyol
+TXN0297,2025-05-10,Expense,Utilities,Water,-91.9,Credit Card,Superonline
+TXN0296,2025-05-10,Expense,Education,Book,-1243.85,Debit Card,Udemy
+TXN0298,2025-05-11,Expense,Transportation,Taxi,-451.98,Debit Card,Shell
+TXN0299,2025-05-12,Expense,Food,Cafe,-503.73,,Getir
+TXN0300,2025-05-13,Expense,Food,Cafe,-380.38,Cash,Local Cafe
+TXN0301,2025-05-13,Expense,Transportation,Public Transport,-230.69,Credit Card,Petrol Ofisi
+TXN0303,2025-05-14,Expense,Savings,FX,-3447.52,Cash,Garanti BBVA
+TXN0304,2025-05-14,Expense,Food,Restaurant,-106.13,Debit Card,Migros
+TXN0302,2025-05-14,Expense,Food,Cafe,-185.6,Debit Card,CarrefourSA
+TXN0305,2025-05-15,Expense,Food,Groceries,-349.03,Cash,Starbucks
+TXN0306,2025-05-16,Expense,Food,Cafe,-152.78,Debit Card,Starbucks
+TXN0307,2025-05-17,Expense,Health,Doctor,-545.2,Credit Card,Eczane
+TXN0308,2025-05-17,Expense,Savings,FX,-4349.9,Cash,Garanti BBVA
+TXN0309,2025-05-17,Expense,Entertainment,Cinema,-797.53,Debit Card,Biletix
+TXN0310,2025-05-17,Expense,Health,Pharmacy,-1153.19,Debit Card,Acibadem
+TXN0313,2025-05-18,Expense,Shopping,Clothing,-1272.29,Debit Card,Zara
+TXN0312,2025-05-18,Expense,Savings,Gold,-4259.86,Credit Card,Garanti BBVA
+TXN0311,2025-05-18,Expense,Shopping,Home,-779.58,Credit Card,Zara
+TXN0314,2025-05-19,Expense,Education,Book,-217.29,Cash,Udemy
+TXN0316,2025-05-20,Expense,Entertainment,Cinema,-466.69,Cash,Netflix
+TXN0315,2025-05-20,Expense,Transportation,Taxi,-419.75,Credit Card,Ankara EGO
+TXN0317,2025-05-21,Expense,Food,Cafe,-421.86,Debit Card,Getir
+TXN0318,2025-05-21,Expense,Entertainment,Cinema,-471.91,Cash,Netflix
+TXN0319,2025-05-21,Expense,Shopping,Clothing,-2398.47,Debit Card,Zara
+TXN0320,2025-05-21,Expense,Entertainment,Cinema,-306.95,Debit Card,Netflix
+TXN0321,2025-05-22,Expense,Shopping,Electronics,-2348.0,Cash,MediaMarkt
+TXN0322,2025-05-25,Expense,Food,Cafe,-353.73,Cash,CarrefourSA
+TXN0323,2025-05-26,Expense,Transportation,Taxi,-293.92,Debit Card,Ankara EGO
+TXN0324,2025-05-26,Expense,Food,Cafe,-413.12,Cash,CarrefourSA
+TXN0327,2025-05-27,Expense,Shopping,Electronics,-560.84,Credit Card,Trendyol
+TXN0326,2025-05-27,Expense,Savings,FX,-3090.92,Credit Card,IsYatirim
+TXN0325,2025-05-27,Expense,Shopping,Clothing,-2463.49,Debit Card,Zara
+TXN0328,2025-05-28,Expense,Shopping,Clothing,-1629.79,Debit Card,Zara
+TXN0329,2025-05-28,Expense,Shopping,Home,-1212.09,Debit Card,
+TXN0330,2025-05-28,Expense,Food,Restaurant,-417.84,Debit Card,Starbucks
+TXN0333,2025-05-29,Expense,Shopping,Electronics,-811.35,Cash,Zara
+TXN0332,2025-05-29,Expense,Transportation,Taxi,-230.99,Cash,BiTaksi
+TXN0331,2025-05-29,Expense,Food,Cafe,-251.28,Debit Card,Migros
+TXN0334,2025-05-30,Expense,food,Groceries,-216.09,Debit Card,Local Cafe
+TXN0335,2025-05-31,Expense,Transportation,Taxi,-113.81,Credit Card,Shell
+TXN0336,2025-06-01,Expense,Transportation,Fuel,-671.64,Debit Card,Ankara EGO
+TXN0337,2025-06-01,Expense,Housing,Rent,-8500.0,Bank Transfer,Landlord
+TXN0338,2025-06-01,Expense,Food,Restaurant,-271.7,Credit Card,Getir
+TXN0339,2025-06-01,Expense,Health,Pharmacy,-358.17,Debit Card,Eczane
+TXN0340,2025-06-01,Expense,Entertainment,Streaming,-795.39,Debit Card,Biletix
+TXN0341,2025-06-01,Income,Salary,Monthly Salary,33994.65,Bank Transfer,TechCorp A.S.
+TXN0344,2025-06-02,Expense,Entertainment,Streaming,-370.14,Cash,Cinemaximum
+TXN0343,2025-06-02,Expense,Food,Cafe,-588.81,Cash,Getir
+TXN0342,2025-06-02,Expense,Transportation,Taxi,-388.74,Credit Card,Petrol Ofisi
+TXN0347,2025-06-03,Expense,Food,Groceries,-81.73,Cash,Getir
+TXN0348,2025-06-03,Expense,Food,Groceries,-549.14,Debit Card,Local Cafe
+TXN0349,2025-06-03,Expense,Savings,Mutual Fund,-4174.79,Cash,IsYatirim
+TXN0345,2025-06-03,Expense,Entertainment,Concert,-416.67,Cash,Biletix
+TXN0346,2025-06-03,Expense,Education,Course,-1206.45,Debit Card,D&R
+TXN0350,2025-06-04,Expense,Entertainment,Concert,-344.42,Debit Card,Netflix
+TXN0351,2025-06-04,Expense,Utilities,Internet,-90.41,Cash,Superonline
+TXN0352,2025-06-05,Expense,Utilities,Water,-123.77,Cash,Superonline
+TXN0353,2025-06-05,Expense,Savings,Mutual Fund,-1860.08,Debit Card,IsYatirim
+TXN0354,2025-06-05,Expense,Food,Groceries,-380.42,Debit Card,Migros
+TXN0355,2025-06-05,Expense,Food,Restaurant,-410.06,Debit Card,Local Cafe
+TXN0356,2025-06-05,Expense,Personal Care,Haircut,-848.47,Cash,Beauty Salon
+TXN0357,2025-06-06,Expense,Transportation,Taxi,-145.82,Debit Card,Petrol Ofisi
+TXN0361,2025-06-07,Expense,Transportation,Fuel,-174.7,Credit Card,BiTaksi
+TXN0359,2025-06-07,Expense,Shopping,Electronics,-2885.12,Cash,MediaMarkt
+TXN0358,2025-06-07,Expense,Entertainment,Concert,-542.97,Debit Card,Cinemaximum
+TXN0360,2025-06-07,Expense,Utilities,Phone,-171.02,Cash,Enerjisa
+TXN0362,2025-06-08,Expense,Entertainment,Concert,-335.2,Cash,Biletix
+TXN0364,2025-06-09,Expense,Entertainment,Cinema,-1104.56,Credit Card,Biletix
+TXN0363,2025-06-09,Expense,Food,Restaurant,-633.22,Credit Card,Migros
+TXN0365,2025-06-09,Expense,Transportation,Taxi,-137.9,Debit Card,Ankara EGO
+TXN0366,2025-06-10,Expense,Food,Cafe,-508.19,Cash,Local Cafe
+TXN0367,2025-06-10,Expense,Transportation,Public Transport,-307.9,Cash,Ankara EGO
+TXN0369,2025-06-10,Expense,Utilities,Electricity,-50.0,Credit Card,Enerjisa
+TXN0368,2025-06-10,Expense,Transportation,Taxi,-283.91,Credit Card,BiTaksi
+TXN0370,2025-06-11,Expense,Food,Groceries,-567.6,Credit Card,Starbucks
+TXN0371,2025-06-11,Expense,Personal Care,Haircut,-336.84,Credit Card,Beauty Salon
+TXN0372,2025-06-11,Expense,Food,Groceries,-309.75,Debit Card,Starbucks
+TXN0373,2025-06-12,Expense,Personal Care,Cosmetics,-748.31,Cash,Sephora
+TXN0374,2025-06-12,Expense,Education,Course,-874.39,Debit Card,Coursera
+TXN0379,2025-06-13,Expense,Food,Groceries,-53.78,Debit Card,Migros
+TXN0380,2025-06-13,Expense,Education,Book,-258.14,Debit Card,Udemy
+TXN0377,2025-06-13,Expense,Entertainment,Streaming,-117.5,Debit Card,Cinemaximum
+TXN0376,2025-06-13,Expense,Food,Cafe,-402.17,Cash,CarrefourSA
+TXN0375,2025-06-13,Expense,Shopping,Home,-1992.49,Debit Card,Zara
+TXN0378,2025-06-13,Expense,Food,Groceries,-267.41,Cash,Local Cafe
+TXN0381,2025-06-14,Expense,Health,Pharmacy,-828.26,Cash,Eczane
+TXN0383,2025-06-14,Expense,Food,Restaurant,-349.23,Cash,Migros
+TXN0382,2025-06-14,Expense,Food,Groceries,-174.84,Debit Card,Local Cafe
+TXN0384,2025-06-15,Expense,Food,Cafe,-549.27,Debit Card,CarrefourSA
+TXN0385,2025-06-16,Expense,Health,Pharmacy,-228.92,Cash,Eczane
+TXN0386,2025-06-17,Expense,Education,Book,-1158.89,Debit Card,Udemy
+TXN0387,2025-06-17,Expense,Transportation,Public Transport,-84.67,Credit Card,Ankara EGO
+TXN0388,2025-06-17,Expense,Food,Restaurant,-265.04,Debit Card,Migros
+TXN0389,2025-06-18,Expense,Shopping,Electronics,-2044.6,Debit Card,Trendyol
+TXN0390,2025-06-19,Expense,Savings,FX,-3103.8,Debit Card,IsYatirim
+TXN0391,2025-06-19,Expense,Entertainment,Cinema,-283.24,Debit Card,Netflix
+TXN0392,2025-06-19,Expense,Food,Restaurant,-478.34,Credit Card,CarrefourSA
+TXN0395,2025-06-20,Expense,Transportation,Fuel,-254.32,Cash,Ankara EGO
+TXN0394,2025-06-20,Expense,Shopping,Clothing,-2275.57,Credit Card,MediaMarkt
+TXN0393,2025-06-20,Expense,Entertainment,Concert,-561.08,Debit Card,Biletix
+TXN0396,2025-06-20,Expense,Food,Restaurant,-246.51,Cash,Local Cafe
+TXN0397,2025-06-21,Expense,Food,Groceries,-453.81,Debit Card,Local Cafe
+TXN0398,2025-06-22,Expense,Health,Pharmacy,-752.6,Cash,Eczane
+TXN0401,2025-06-23,Expense,Transportation,Fuel,-411.6,Debit Card,Ankara EGO
+TXN0399,2025-06-23,Expense,Shopping,Electronics,-3003.41,Cash,Zara
+TXN0400,2025-06-23,Expense,Personal Care,Cosmetics,-487.97,Cash,Sephora
+TXN0402,2025-06-24,Expense,Shopping,Electronics,-2609.57,Debit Card,MediaMarkt
+TXN0403,2025-06-25,Expense,Savings,Gold,-1398.3,Debit Card,IsYatirim
+TXN0404,2025-06-25,Expense,Food,Restaurant,-486.51,Cash,Getir
+TXN0405,2025-06-26,Expense,Transportation,Public Transport,-385.41,Debit Card,Petrol Ofisi
+TXN0406,2025-06-26,Expense,Food,Cafe,-126.9,Credit Card,Local Cafe
+TXN0407,2025-06-26,Expense,Education,Book,-449.43,Credit Card,D&R
+TXN0408,2025-06-26,Expense,Shopping,Electronics,-2180.8,Cash,IKEA
+TXN0409,2025-06-29,Expense,Transportation,Taxi,-443.88,Debit Card,BiTaksi
+TXN0410,2025-06-29,Expense,Shopping,Home,-941.5,Credit Card,Trendyol
+TXN0411,2025-06-29,Expense,Transportation,Fuel,-50.74,Credit Card,Ankara EGO
+TXN0412,2025-06-30,Expense,food,Restaurant,-368.31,Cash,Starbucks
+TXN0413,2025-07-01,Income,Salary,Monthly Salary,33363.42,Bank Transfer,TechCorp A.S.
+TXN0415,2025-07-01,Expense,Savings,FX,-4873.59,Cash,IsYatirim
+TXN0414,2025-07-01,Expense,Housing,Rent,-8500.0,Bank Transfer,Landlord
+TXN0416,2025-07-03,Expense,Shopping,Electronics,-282.01,Debit Card,Trendyol
+TXN0417,2025-07-03,Expense,Entertainment,Streaming,-380.45,Debit Card,Spotify
+TXN0418,2025-07-03,Expense,Food,Cafe,-360.49,Credit Card,CarrefourSA
+TXN0419,2025-07-03,Expense,Entertainment,Concert,-76.53,Cash,Cinemaximum
+TXN0420,2025-07-03,Expense,Food,Restaurant,-630.61,Debit Card,Getir
+TXN0421,2025-07-03,Expense,Transportation,Fuel,-388.23,Cash,Ankara EGO
+TXN0422,2025-07-04,Expense,Food,Cafe,-264.29,Debit Card,Getir
+TXN0423,2025-07-04,Expense,Food,Cafe,-329.66,Cash,Local Cafe
+TXN0424,2025-07-04,Expense,Utilities,Phone,-157.2,Cash,Turkcell
+TXN0425,2025-07-04,Expense,Food,Groceries,-402.22,Credit Card,Starbucks
+TXN0427,2025-07-05,Expense,Food,Cafe,-372.12,Cash,CarrefourSA
+TXN0429,2025-07-05,Expense,Food,Groceries,-305.76,Debit Card,Getir
+TXN0426,2025-07-05,Expense,Shopping,Electronics,-2695.97,Credit Card,IKEA
+TXN0428,2025-07-05,Expense,Food,Restaurant,-620.21,Debit Card,Getir
+TXN0430,2025-07-06,Expense,Entertainment,Concert,-1117.22,Credit Card,Spotify
+TXN0431,2025-07-06,Expense,Personal Care,Cosmetics,-852.38,Debit Card,Sephora
+TXN0432,2025-07-06,Expense,Shopping,Clothing,-2195.49,Cash,IKEA
+TXN0434,2025-07-07,Expense,Transportation,Taxi,-124.03,Cash,BiTaksi
+TXN0433,2025-07-07,Expense,Utilities,Water,-97.28,Credit Card,Superonline
+TXN0435,2025-07-07,Expense,Utilities,Electricity,-143.18,Credit Card,Turkcell
+TXN0436,2025-07-07,Expense,Utilities,Internet,-171.13,Cash,ASKI
+TXN0438,2025-07-08,Expense,Transportation,Taxi,-317.96,Cash,BiTaksi
+TXN0437,2025-07-08,Expense,Transportation,Fuel,-423.16,Cash,Petrol Ofisi
+TXN0439,2025-07-09,Expense,Food,Cafe,-71.44,Debit Card,Getir
+TXN0440,2025-07-09,Expense,Food,Groceries,-308.24,Debit Card,CarrefourSA
+TXN0441,2025-07-10,Expense,Shopping,Home,-2100.78,Debit Card,Zara
+TXN0442,2025-07-12,Expense,Transportation,Taxi,-91.99,Cash,Petrol Ofisi
+TXN0443,2025-07-12,Expense,Savings,FX,-3375.7,Credit Card,IsYatirim
+TXN0444,2025-07-13,Income,Freelance,Freelance Project,5669.33,Bank Transfer,Direct Client
+TXN0445,2025-07-14,Expense,Food,Restaurant,-203.73,Credit Card,CarrefourSA
+TXN0446,2025-07-14,Expense,Food,Restaurant,-549.3,Debit Card,CarrefourSA
+TXN0451,2025-07-15,Expense,Entertainment,Cinema,-965.28,Cash,Spotify
+TXN0450,2025-07-15,Expense,Transportation,Taxi,-317.95,Debit Card,Shell
+TXN0448,2025-07-15,Expense,Education,Course,-429.49,Cash,D&R
+TXN0447,2025-07-15,Expense,Transportation,Taxi,-677.28,Credit Card,BiTaksi
+TXN0449,2025-07-15,Expense,Food,Cafe,-161.94,Credit Card,Migros
+TXN0453,2025-07-16,Expense,Food,Cafe,-485.7,Credit Card,Getir
+TXN0454,2025-07-16,Expense,Transportation,Public Transport,-404.02,Debit Card,
+TXN0452,2025-07-16,Expense,Education,Course,-856.13,Cash,Udemy
+TXN0455,2025-07-18,Expense,Food,Groceries,-434.49,Debit Card,CarrefourSA
+TXN0456,2025-07-18,Expense,Health,Pharmacy,-649.27,Cash,Medical Park
+TXN0457,2025-07-18,Expense,Savings,Mutual Fund,-2461.65,Cash,Garanti BBVA
+TXN0458,2025-07-18,Expense,Transportation,Public Transport,-61.54,Cash,Shell
+TXN0459,2025-07-18,Expense,Transportation,Public Transport,-559.84,Cash,Shell
+TXN0459,2025-07-18,Expense,Transportation,Public Transport,-559.84,Cash,Shell
+TXN0460,2025-07-19,Expense,Education,Course,-607.75,Credit Card,Coursera
+TXN0461,2025-07-19,Expense,Shopping,Home,-2298.77,Cash,Zara
+TXN0462,2025-07-19,Expense,Food,Cafe,-462.69,Credit Card,CarrefourSA
+TXN0463,2025-07-20,Expense,Entertainment,Cinema,-997.29,Cash,Cinemaximum
+TXN0466,2025-07-21,Expense,Entertainment,Concert,-985.33,Credit Card,Spotify
+TXN0464,2025-07-21,Expense,Transportation,Taxi,-428.83,Cash,Ankara EGO
+TXN0465,2025-07-21,Expense,Entertainment,Cinema,-112.94,Credit Card,Spotify
+TXN0468,2025-07-22,Expense,Education,Course,-882.56,Cash,Coursera
+TXN0467,2025-07-22,Expense,Food,Cafe,-595.48,Cash,Migros
+TXN0469,2025-07-23,Expense,Entertainment,Streaming,-679.71,Cash,Cinemaximum
+TXN0470,2025-07-23,Expense,Food,Restaurant,-341.78,Debit Card,Getir
+TXN0471,2025-07-23,Expense,Health,Doctor,-951.36,Debit Card,Medical Park
+TXN0474,2025-07-24,Expense,Transportation,Fuel,-268.51,Cash,BiTaksi
+TXN0472,2025-07-24,Expense,Shopping,Home,-3296.44,Credit Card,MediaMarkt
+TXN0473,2025-07-24,Expense,Food,Restaurant,-382.61,Debit Card,Local Cafe
+TXN0475,2025-07-25,Expense,Health,Pharmacy,-497.47,Cash,Eczane
+TXN0476,2025-07-25,Expense,Transportation,Fuel,-508.75,Debit Card,Petrol Ofisi
+TXN0477,2025-07-25,Expense,food,Restaurant,-511.85,Debit Card,CarrefourSA
+TXN0478,2025-07-26,Expense,Shopping,Home,-2566.3,Cash,Trendyol
+TXN0479,2025-07-26,Expense,Food,Cafe,-393.14,Credit Card,Getir
+TXN0480,2025-07-26,Expense,Food,Groceries,-444.63,Debit Card,Getir
+TXN0481,2025-07-26,Expense,Food,Groceries,-168.83,Credit Card,Getir
+TXN0482,2025-07-27,Expense,Savings,Mutual Fund,-1346.95,Cash,Garanti BBVA
+TXN0483,2025-07-27,Expense,Shopping,Home,-2462.47,Cash,MediaMarkt
+TXN0484,2025-07-28,Expense,Shopping,Home,-2900.41,Cash,MediaMarkt
+TXN0485,2025-07-29,Expense,Transportation,Fuel,-468.3,Debit Card,Petrol Ofisi
+TXN0487,2025-07-29,Expense,Food,Groceries,-392.57,,Migros
+TXN0486,2025-07-29,Expense,Food,Cafe,-154.4,Debit Card,Getir
+TXN0488,2025-07-30,Expense,Food,Cafe,-388.93,Debit Card,Starbucks
+TXN0490,2025-07-31,Expense,Transportation,Public Transport,-311.63,Credit Card,Petrol Ofisi
+TXN0489,2025-07-31,Expense,Food,Cafe,-517.26,Debit Card,CarrefourSA
+TXN0491,2025-08-01,Expense,Housing,Rent,-8500.0,Bank Transfer,Landlord
+TXN0492,2025-08-01,Expense,Shopping,Electronics,-3295.83,Debit Card,IKEA
+TXN0493,2025-08-01,Income,Salary,Monthly Salary,32305.68,Bank Transfer,TechCorp A.S.
+TXN0494,2025-08-02,Expense,Savings,Gold,-4988.69,,IsYatirim
+TXN0495,2025-08-03,Expense,Food,Groceries,-385.62,Cash,Getir
+TXN0496,2025-08-04,Expense,Health,Doctor,-349.64,Debit Card,Acibadem
+TXN0497,2025-08-04,Expense,Utilities,Phone,-49.28,Credit Card,Superonline
+TXN0498,2025-08-04,Expense,Entertainment,Concert,-584.44,Debit Card,Netflix
+TXN0501,2025-08-07,Expense,Savings,Mutual Fund,-4588.83,Cash,Garanti BBVA
+TXN0502,2025-08-07,Expense,Utilities,Internet,-70.42,Cash,ASKI
+TXN0499,2025-08-07,Expense,Shopping,Clothing,-182.4,Credit Card,Zara
+TXN0500,2025-08-07,Expense,Food,Cafe,-333.0,Credit Card,Local Cafe
+TXN0504,2025-08-08,Expense,Shopping,Home,-153.64,Debit Card,Zara
+TXN0503,2025-08-08,Expense,Utilities,Water,-104.68,Debit Card,Enerjisa
+TXN0506,2025-08-08,Expense,Transportation,Fuel,-219.18,Credit Card,Ankara EGO
+TXN0505,2025-08-08,Expense,Food,Restaurant,-388.1,Credit Card,Getir
+TXN0507,2025-08-08,Expense,Entertainment,Concert,-375.68,Debit Card,Biletix
+TXN0508,2025-08-10,Expense,food,Cafe,-535.18,Cash,CarrefourSA
+TXN0509,2025-08-11,Expense,Utilities,Electricity,-168.61,Cash,Enerjisa
+TXN0513,2025-08-12,Expense,Health,Doctor,-414.88,Cash,Medical Park
+TXN0512,2025-08-12,Expense,Food,Cafe,-262.18,Credit Card,Getir
+TXN0510,2025-08-12,Expense,Shopping,Electronics,-1724.53,Debit Card,Zara
+TXN0511,2025-08-12,Expense,Savings,Mutual Fund,-4578.55,Debit Card,Garanti BBVA
+TXN0514,2025-08-13,Expense,Transportation,Taxi,-350.2,Cash,Shell
+TXN0515,2025-08-13,Expense,Entertainment,Concert,-458.84,Debit Card,Spotify
+TXN0516,2025-08-13,Expense,Food,Groceries,-125.48,Debit Card,Migros
+TXN0518,2025-08-13,Expense,Food,Groceries,-488.07,Cash,Starbucks
+TXN0517,2025-08-13,Expense,Savings,Gold,-1839.51,Cash,IsYatirim
+TXN0519,2025-08-16,Expense,Transportation,Taxi,-350.47,Credit Card,BiTaksi
+TXN0520,2025-08-17,Expense,Entertainment,Cinema,-410.11,Credit Card,Spotify
+TXN0521,2025-08-18,Expense,Savings,FX,-1321.0,Cash,Garanti BBVA
+TXN0522,2025-08-18,Expense,Food,Restaurant,-232.8,Debit Card,Starbucks
+TXN0523,2025-08-18,Expense,Food,Groceries,-629.01,Debit Card,CarrefourSA
+TXN0524,2025-08-19,Expense,Education,Book,-1485.65,Debit Card,Coursera
+TXN0525,2025-08-19,Expense,Education,Book,-1158.84,Cash,D&R
+TXN0529,2025-08-20,Expense,Transportation,Public Transport,-95.13,Cash,Shell
+TXN0528,2025-08-20,Expense,Food,Cafe,-41.34,Debit Card,Getir
+TXN0527,2025-08-20,Expense,Food,Cafe,-648.33,Cash,Starbucks
+TXN0526,2025-08-20,Expense,Health,Pharmacy,-742.9,Cash,Acibadem
+TXN0530,2025-08-20,Expense,Food,Groceries,-506.34,Debit Card,Local Cafe
+TXN0531,2025-08-21,Expense,Entertainment,Streaming,-474.84,Credit Card,Spotify
+TXN0533,2025-08-21,Expense,Personal Care,Cosmetics,-82.03,Cash,Sephora
+TXN0532,2025-08-21,Expense,Food,Groceries,-520.58,Cash,CarrefourSA
+TXN0534,2025-08-22,Expense,Food,Restaurant,-642.61,Cash,Local Cafe
+TXN0535,2025-08-22,Expense,Entertainment,Cinema,-1082.65,Cash,Spotify
+TXN0536,2025-08-23,Expense,Education,Course,-957.2,Cash,Coursera
+TXN0537,2025-08-23,Expense,Food,Restaurant,-618.78,Debit Card,Migros
+TXN0538,2025-08-24,Expense,Food,Restaurant,-453.09,Cash,CarrefourSA
+TXN0539,2025-08-25,Expense,Education,Course,-1403.02,Debit Card,D&R
+TXN0540,2025-08-26,Expense,Education,Book,-862.49,Credit Card,D&R
+TXN0541,2025-08-26,Expense,Savings,FX,-4465.57,Cash,IsYatirim
+TXN0543,2025-08-27,Expense,Transportation,Fuel,-676.48,Credit Card,BiTaksi
+TXN0542,2025-08-27,Expense,Transportation,Taxi,-374.93,Cash,Ankara EGO
+TXN0544,2025-08-27,Expense,Entertainment,Cinema,-344.43,Cash,Cinemaximum
+TXN0545,2025-08-29,Expense,Food,Groceries,-471.24,Cash,CarrefourSA
+TXN0546,2025-08-29,Expense,Entertainment,Cinema,-254.9,Cash,Cinemaximum
+TXN0547,2025-08-30,Expense,Savings,Mutual Fund,-3823.1,Cash,IsYatirim
+TXN0548,2025-08-30,Expense,Health,Pharmacy,-832.39,Cash,Eczane
+TXN0549,2025-08-30,Expense,Food,Cafe,-598.31,Credit Card,CarrefourSA
+TXN0550,2025-08-30,Expense,Shopping,Clothing,-1652.81,Credit Card,IKEA
+TXN0551,2025-08-31,Expense,Food,Groceries,-563.1,Credit Card,CarrefourSA
+TXN0552,2025-09-01,Expense,Education,Book,-546.53,Debit Card,Udemy
+TXN0553,2025-09-01,Expense,Shopping,Clothing,-1538.38,Cash,IKEA
+TXN0554,2025-09-01,Expense,Transportation,Fuel,-388.76,Cash,BiTaksi
+TXN0555,2025-09-01,Income,Salary,Monthly Salary,32256.78,Bank Transfer,TechCorp A.S.
+TXN0556,2025-09-01,Expense,Housing,Rent,-8500.0,Bank Transfer,Landlord
+TXN0557,2025-09-02,Expense,Health,Pharmacy,-202.39,Cash,Eczane
+TXN0558,2025-09-02,Expense,Health,Pharmacy,-738.04,Cash,Acibadem
+TXN0559,2025-09-02,Expense,Shopping,Electronics,-1106.14,Credit Card,MediaMarkt
+TXN0562,2025-09-03,Expense,Entertainment,Cinema,-147.78,Debit Card,Netflix
+TXN0561,2025-09-03,Expense,Food,Restaurant,-123.71,Credit Card,Starbucks
+TXN0560,2025-09-03,Expense,Entertainment,Concert,-507.53,,Biletix
+TXN0563,2025-09-03,Expense,Transportation,Public Transport,-163.44,Cash,BiTaksi
+TXN0565,2025-09-05,Expense,Food,Cafe,-221.43,Credit Card,Starbucks
+TXN0566,2025-09-05,Expense,Transportation,Fuel,-367.95,Debit Card,Petrol Ofisi
+TXN0567,2025-09-05,Expense,Health,Doctor,-753.02,Debit Card,Eczane
+TXN0564,2025-09-05,Expense,Transportation,Taxi,-178.09,Credit Card,BiTaksi
+TXN0568,2025-09-06,Expense,Food,Restaurant,-481.75,Debit Card,Starbucks
+TXN0569,2025-09-06,Expense,Food,Groceries,-87.07,Credit Card,Getir
+TXN0570,2025-09-06,Expense,Shopping,Electronics,-409.57,Debit Card,IKEA
+TXN0571,2025-09-07,Expense,Entertainment,Streaming,-763.94,Credit Card,Netflix
+TXN0572,2025-09-07,Expense,Personal Care,Cosmetics,-630.46,Credit Card,Beauty Salon
+TXN0573,2025-09-07,Expense,Utilities,Internet,-92.36,Debit Card,Turkcell
+TXN0576,2025-09-08,Expense,Food,Restaurant,-471.46,Debit Card,Starbucks
+TXN0574,2025-09-08,Expense,Entertainment,Concert,-553.39,Cash,Cinemaximum
+TXN0575,2025-09-08,Expense,Food,Cafe,-525.49,Credit Card,Migros
+TXN0577,2025-09-09,Expense,Food,Cafe,-132.55,Cash,Migros
+TXN0578,2025-09-10,Expense,Entertainment,Streaming,-72.65,Credit Card,Biletix
+TXN0579,2025-09-10,Expense,Savings,FX,-1405.71,Debit Card,Garanti BBVA
+TXN0584,2025-09-11,Expense,Food,Cafe,-574.81,Credit Card,CarrefourSA
+TXN0581,2025-09-11,Expense,Utilities,Phone,-99.58,Credit Card,ASKI
+TXN0580,2025-09-11,Expense,Food,Restaurant,-62.39,Credit Card,Local Cafe
+TXN0582,2025-09-11,Expense,Transportation,Fuel,-328.09,Credit Card,Petrol Ofisi
+TXN0583,2025-09-11,Expense,Utilities,Water,-141.35,Cash,ASKI
+TXN0585,2025-09-11,Expense,Utilities,Electricity,-60.2,Credit Card,Superonline
+TXN0589,2025-09-12,Expense,Food,Cafe,-145.41,Credit Card,Starbucks
+TXN0590,2025-09-12,Expense,Transportation,Taxi,-386.77,Debit Card,Petrol Ofisi
+TXN0591,2025-09-12,Expense,Food,Groceries,-547.21,Credit Card,CarrefourSA
+TXN0587,2025-09-12,Expense,Shopping,Clothing,-1423.69,Cash,Trendyol
+TXN0586,2025-09-12,Expense,Personal Care,Cosmetics,-411.77,Cash,Gratis
+TXN0588,2025-09-12,Expense,Savings,FX,-3428.26,Debit Card,IsYatirim
+TXN0592,2025-09-13,Expense,Entertainment,Streaming,-657.95,Debit Card,Spotify
+TXN0593,2025-09-13,Expense,Savings,Mutual Fund,-3263.43,Credit Card,Garanti BBVA
+TXN0594,2025-09-13,Expense,Entertainment,Concert,-261.3,Debit Card,Cinemaximum
+TXN0595,2025-09-14,Expense,Food,Groceries,-103.14,Debit Card,Starbucks
+TXN0596,2025-09-14,Expense,Food,Groceries,-475.29,Debit Card,Getir
+TXN0600,2025-09-15,Expense,Food,Cafe,-410.01,Debit Card,CarrefourSA
+TXN0599,2025-09-15,Expense,Transportation,Public Transport,-203.08,Credit Card,Shell
+TXN0597,2025-09-15,Expense,Health,Pharmacy,-808.3,Cash,Acibadem
+TXN0598,2025-09-15,Expense,Entertainment,Streaming,-748.51,Debit Card,Netflix
+TXN0602,2025-09-16,Expense,Transportation,Fuel,-302.09,Credit Card,Ankara EGO
+TXN0603,2025-09-16,Expense,Transportation,Fuel,-139.92,Debit Card,Shell
+TXN0604,2025-09-16,Expense,Savings,FX,-1299.46,Debit Card,IsYatirim
+TXN0605,2025-09-16,Expense,Entertainment,Streaming,-585.48,Debit Card,Netflix
+TXN0601,2025-09-16,Expense,Food,Restaurant,-363.52,Credit Card,Migros
+TXN0606,2025-09-17,Expense,Food,Restaurant,-576.35,Debit Card,Migros
+TXN0607,2025-09-17,Expense,Health,Pharmacy,-437.28,Cash,Medical Park
+TXN0608,2025-09-17,Expense,Shopping,Home,-2726.82,Credit Card,IKEA
+TXN0611,2025-09-18,Expense,Shopping,Electronics,-3433.82,Credit Card,IKEA
+TXN0609,2025-09-18,Expense,Entertainment,Concert,-448.41,Credit Card,Cinemaximum
+TXN0610,2025-09-18,Expense,Food,Restaurant,-434.16,Credit Card,CarrefourSA
+TXN0612,2025-09-19,Expense,Shopping,Clothing,-531.94,Credit Card,MediaMarkt
+TXN0613,2025-09-19,Expense,Food,Restaurant,-46.46,Credit Card,Local Cafe
+TXN0614,2025-09-20,Expense,Transportation,Fuel,-193.11,Credit Card,Shell
+TXN0615,2025-09-20,Expense,Entertainment,Cinema,-853.06,Credit Card,Spotify
+TXN0616,2025-09-20,Expense,Food,Cafe,-565.03,Cash,Local Cafe
+TXN0619,2025-09-21,Expense,Food,Groceries,-210.26,Debit Card,Starbucks
+TXN0620,2025-09-21,Expense,Shopping,Clothing,-776.13,Debit Card,Trendyol
+TXN0617,2025-09-21,Expense,Transportation,Public Transport,-36.01,Debit Card,Petrol Ofisi
+TXN0618,2025-09-21,Expense,Personal Care,Haircut,-869.47,Debit Card,Beauty Salon
+TXN0621,2025-09-22,Expense,Health,Doctor,-477.65,Cash,Eczane
+TXN0622,2025-09-22,Expense,Transportation,Public Transport,-401.51,Cash,Petrol Ofisi
+TXN0623,2025-09-23,Expense,Transportation,Taxi,-180.78,Cash,Ankara EGO
+TXN0624,2025-09-24,Expense,Food,Cafe,-293.72,Cash,Getir
+TXN0625,2025-09-24,Expense,Food,Cafe,-459.54,Debit Card,Getir
+TXN0626,2025-09-26,Expense,Entertainment,Streaming,-294.77,Debit Card,Spotify
+TXN0627,2025-09-26,Expense,Shopping,Home,-645.05,Cash,IKEA
+TXN0628,2025-09-26,Expense,Food,Restaurant,-175.16,Credit Card,CarrefourSA
+TXN0631,2025-09-28,Expense,Savings,Gold,-4735.7,Credit Card,Garanti BBVA
+TXN0630,2025-09-28,Expense,Food,Cafe,-608.37,Credit Card,CarrefourSA
+TXN0629,2025-09-28,Expense,Education,Course,-1357.83,Cash,Udemy
+TXN0632,2025-09-29,Expense,Transportation,Taxi,-487.64,Credit Card,Ankara EGO
+TXN0633,2025-09-29,Expense,Food,Cafe,-302.42,Cash,Local Cafe
+TXN0634,2025-10-01,Expense,Transportation,Public Transport,-439.38,Credit Card,Petrol Ofisi
+TXN0635,2025-10-01,Expense,Housing,Rent,-8500.0,Bank Transfer,Landlord
+TXN0636,2025-10-01,Income,Salary,Monthly Salary,32676.17,Bank Transfer,TechCorp A.S.
+TXN0637,2025-10-02,Expense,Shopping,Electronics,-1745.48,Credit Card,Trendyol
+TXN0638,2025-10-03,Expense,Food,Cafe,-483.73,Credit Card,Migros
+TXN0639,2025-10-03,Expense,Utilities,Water,-68.98,Debit Card,Enerjisa
+TXN0640,2025-10-03,Expense,Savings,Mutual Fund,-3586.24,Credit Card,Garanti BBVA
+TXN0642,2025-10-04,Expense,Food,Restaurant,-148.87,Cash,Migros
+TXN0641,2025-10-04,Expense,Savings,Mutual Fund,-3088.18,Debit Card,Garanti BBVA
+TXN0644,2025-10-04,Expense,Food,Restaurant,-184.9,Credit Card,CarrefourSA
+TXN0643,2025-10-04,Expense,Utilities,Internet,-108.2,Cash,Turkcell
+TXN0645,2025-10-05,Expense,Personal Care,Haircut,-106.02,Debit Card,Gratis
+TXN0651,2025-10-06,Expense,Entertainment,Streaming,-838.74,Debit Card,Spotify
+TXN0646,2025-10-06,Expense,Entertainment,Concert,-375.79,Debit Card,Netflix
+TXN0649,2025-10-06,Expense,Savings,FX,-4040.02,Debit Card,IsYatirim
+TXN0647,2025-10-06,Expense,Utilities,Electricity,-118.41,Credit Card,Enerjisa
+TXN0648,2025-10-06,Expense,Entertainment,Streaming,-274.64,Credit Card,Biletix
+TXN0650,2025-10-06,Expense,Transportation,Public Transport,-478.44,Credit Card,BiTaksi
+TXN0652,2025-10-07,Expense,Health,Pharmacy,-302.33,Debit Card,Acibadem
+TXN0653,2025-10-07,Expense,Food,Restaurant,-488.95,Cash,Migros
+TXN0654,2025-10-07,Expense,Food,Groceries,-240.03,Debit Card,Migros
+TXN0655,2025-10-09,Expense,Transportation,Taxi,-153.69,Debit Card,Petrol Ofisi
+TXN0656,2025-10-10,Expense,Utilities,Phone,-66.96,Cash,ASKI
+TXN0657,2025-10-10,Expense,Transportation,Taxi,-358.85,Credit Card,Shell
+TXN0658,2025-10-10,Expense,Food,Groceries,-314.81,Cash,Starbucks
+TXN0659,2025-10-10,Expense,Shopping,Home,-524.78,Cash,Zara
+TXN0660,2025-10-11,Expense,Food,Groceries,-102.58,,Starbucks
+TXN0661,2025-10-11,Expense,Savings,Gold,-1167.09,Cash,IsYatirim
+TXN0662,2025-10-11,Expense,Shopping,Clothing,-2240.96,Debit Card,Trendyol
+TXN0663,2025-10-11,Expense,Education,Book,-1184.76,Credit Card,Coursera
+TXN0664,2025-10-12,Expense,Shopping,Clothing,-1697.84,Credit Card,Zara
+TXN0665,2025-10-12,Expense,Entertainment,Cinema,-715.79,Debit Card,Biletix
+TXN0666,2025-10-13,Expense,Education,Course,-927.55,Debit Card,Udemy
+TXN0667,2025-10-14,Expense,Education,Book,-235.5,Cash,D&R
+TXN0669,2025-10-15,Expense,Entertainment,Concert,-619.85,Cash,Biletix
+TXN0668,2025-10-15,Expense,Shopping,Home,-897.84,Cash,MediaMarkt
+TXN0670,2025-10-16,Expense,Health,Pharmacy,-473.51,Debit Card,Acibadem
+TXN0671,2025-10-17,Expense,Education,Course,-1114.09,Debit Card,Coursera
+TXN0672,2025-10-17,Expense,Food,Cafe,-356.65,Cash,CarrefourSA
+TXN0673,2025-10-17,Expense,Shopping,Electronics,-2068.59,Debit Card,Zara
+TXN0674,2025-10-17,Expense,Food,Cafe,-222.98,Credit Card,
+TXN0675,2025-10-18,Expense,Transportation,Fuel,-350.1,Debit Card,Shell
+TXN0676,2025-10-18,Expense,Savings,Mutual Fund,-3578.7,Credit Card,Garanti BBVA
+TXN0677,2025-10-19,Expense,Shopping,Home,-3324.43,Credit Card,Zara
+TXN0678,2025-10-19,Expense,Food,Groceries,-550.56,Credit Card,Getir
+TXN0679,2025-10-20,Expense,Shopping,Home,-552.94,Debit Card,Trendyol
+TXN0680,2025-10-21,Expense,Food,Restaurant,-634.47,Cash,Local Cafe
+TXN0681,2025-10-21,Expense,Food,Restaurant,-247.83,Credit Card,Starbucks
+TXN0684,2025-10-22,Expense,Food,Cafe,-341.57,Credit Card,Starbucks
+TXN0682,2025-10-22,Expense,Savings,FX,-4740.82,Credit Card,Garanti BBVA
+TXN0683,2025-10-22,Expense,Food,Restaurant,-322.47,Cash,Starbucks
+TXN0686,2025-10-23,Expense,Food,Groceries,-294.12,Cash,Local Cafe
+TXN0685,2025-10-23,Expense,Shopping,Home,-694.9,Credit Card,Trendyol
+TXN0687,2025-10-23,Expense,Transportation,Taxi,-374.5,Cash,Petrol Ofisi
+TXN0689,2025-10-24,Expense,Entertainment,Streaming,-602.16,Debit Card,Biletix
+TXN0688,2025-10-24,Expense,Transportation,Taxi,-435.52,Cash,BiTaksi
+TXN0690,2025-10-24,Expense,Entertainment,Concert,-541.83,Credit Card,Netflix
+TXN0691,2025-10-25,Expense,Education,Course,-1340.77,Cash,D&R
+TXN0692,2025-10-26,Expense,Entertainment,Concert,-735.48,Debit Card,Biletix
+TXN0694,2025-10-28,Expense,Shopping,Home,-1189.07,Debit Card,Zara
+TXN0695,2025-10-28,Expense,Food,Restaurant,-318.67,Debit Card,CarrefourSA
+TXN0696,2025-10-28,Expense,Shopping,Clothing,-1410.7,Credit Card,MediaMarkt
+TXN0697,2025-10-28,Expense,Food,Restaurant,-123.24,Credit Card,CarrefourSA
+TXN0693,2025-10-28,Expense,Food,Groceries,-177.66,Credit Card,Local Cafe
+TXN0698,2025-10-29,Expense,Transportation,Fuel,-49.89,Cash,BiTaksi
+TXN0699,2025-10-29,Expense,Entertainment,Streaming,-651.55,Credit Card,Cinemaximum
+TXN0700,2025-10-29,Expense,Shopping,Clothing,-534.5,Credit Card,IKEA
+TXN0701,2025-10-29,Expense,Food,Groceries,-539.23,Debit Card,Starbucks
+TXN0702,2025-10-29,Expense,Shopping,Home,-706.04,Credit Card,IKEA
+TXN0703,2025-10-29,Expense,Shopping,Clothing,-3492.3,Debit Card,MediaMarkt
+TXN0704,2025-10-31,Expense,food,Cafe,-63.91,Cash,Local Cafe
+TXN0707,2025-11-01,Expense,Housing,Rent,-8500.0,Bank Transfer,Landlord
+TXN0705,2025-11-01,Expense,Transportation,Public Transport,-188.52,Debit Card,BiTaksi
+TXN0706,2025-11-01,Expense,Food,Restaurant,-617.84,Credit Card,Local Cafe
+TXN0709,2025-11-02,Expense,Entertainment,Cinema,-288.83,Debit Card,Cinemaximum
+TXN0710,2025-11-02,Expense,Entertainment,Cinema,-50.61,Debit Card,Biletix
+TXN0708,2025-11-02,Expense,Transportation,Taxi,-169.73,Cash,Shell
+TXN0711,2025-11-03,Expense,Personal Care,Haircut,-676.94,Debit Card,Sephora
+TXN0712,2025-11-03,Expense,Utilities,Internet,-130.09,Credit Card,Enerjisa
+TXN0713,2025-11-04,Expense,Shopping,Electronics,-2484.04,Cash,IKEA
+TXN0714,2025-11-05,Expense,Shopping,Clothing,-2462.33,Debit Card,Trendyol
+TXN0715,2025-11-06,Expense,Food,Restaurant,-459.37,Debit Card,Getir
+TXN0718,2025-11-07,Expense,Entertainment,Concert,-707.1,Debit Card,Spotify
+TXN0716,2025-11-07,Expense,Food,Restaurant,-405.89,Cash,Local Cafe
+TXN0717,2025-11-07,Expense,Transportation,Public Transport,-383.6,Credit Card,Ankara EGO
+TXN0719,2025-11-08,Expense,Entertainment,Streaming,-244.37,Credit Card,Cinemaximum
+TXN0720,2025-11-08,Expense,Shopping,Electronics,-916.59,Credit Card,Zara
+TXN0721,2025-11-08,Expense,Food,Cafe,-112.86,Cash,Getir
+TXN0722,2025-11-08,Expense,Food,Cafe,-333.86,Debit Card,Migros
+TXN0726,2025-11-09,Expense,Utilities,Phone,-137.63,Credit Card,Enerjisa
+TXN0724,2025-11-09,Expense,Utilities,Water,-86.22,Debit Card,Superonline
+TXN0725,2025-11-09,Expense,Utilities,Electricity,-63.68,Cash,Enerjisa
+TXN0723,2025-11-09,Expense,Shopping,Electronics,-2889.48,Debit Card,Zara
+TXN0727,2025-11-10,Expense,food,Cafe,-334.68,Debit Card,Getir
+TXN0728,2025-11-11,Expense,Entertainment,Cinema,-539.08,Cash,Biletix
+TXN0729,2025-11-11,Expense,Entertainment,Concert,-548.96,Cash,Spotify
+TXN0730,2025-11-11,Expense,Savings,FX,-2555.34,Cash,Garanti BBVA
+TXN0731,2025-11-11,Expense,Shopping,Home,-3504.21,Cash,Zara
+TXN0732,2025-11-11,Expense,Shopping,Home,-2631.74,Credit Card,Trendyol
+TXN0733,2025-11-11,Expense,Education,Course,-1042.87,Debit Card,Udemy
+TXN0734,2025-11-12,Expense,Food,Restaurant,-291.32,Cash,Starbucks
+TXN0735,2025-11-12,Expense,Savings,FX,-4159.63,Cash,Garanti BBVA
+TXN0736,2025-11-12,Expense,Savings,Mutual Fund,-3969.65,Cash,IsYatirim
+TXN0737,2025-11-13,Expense,Food,Cafe,-648.43,Cash,CarrefourSA
+TXN0740,2025-11-14,Expense,Transportation,Public Transport,-184.0,Cash,Petrol Ofisi
+TXN0738,2025-11-14,Expense,Food,Cafe,-384.79,Debit Card,Local Cafe
+TXN0739,2025-11-14,Expense,Shopping,Electronics,-1484.53,Cash,Trendyol
+TXN0741,2025-11-15,Expense,Food,Groceries,-448.37,Cash,Starbucks
+TXN0742,2025-11-16,Expense,Shopping,Home,-2281.65,Cash,MediaMarkt
+TXN0743,2025-11-16,Expense,Health,Pharmacy,-553.32,Debit Card,Medical Park
+TXN0744,2025-11-16,Expense,Shopping,Electronics,-4121.64,Debit Card,Trendyol
+TXN0745,2025-11-17,Expense,Food,Cafe,-135.8,Credit Card,Migros
+TXN0746,2025-11-18,Expense,Shopping,Electronics,-4849.4,Credit Card,IKEA
+TXN0747,2025-11-19,Expense,Food,Cafe,-281.31,Cash,Starbucks
+TXN0748,2025-11-20,Expense,Food,Restaurant,-315.71,Cash,Starbucks
+TXN0749,2025-11-20,Expense,Food,Groceries,-476.79,Debit Card,Migros
+TXN0750,2025-11-21,Expense,Personal Care,Cosmetics,-508.03,Cash,Sephora
+TXN0751,2025-11-21,Expense,Entertainment,Concert,-320.26,Debit Card,Spotify
+TXN0753,2025-11-24,Expense,Entertainment,Concert,-278.62,,Spotify
+TXN0752,2025-11-24,Expense,Entertainment,Streaming,-472.46,Credit Card,Biletix
+TXN0755,2025-11-25,Expense,Personal Care,Haircut,-855.05,Cash,Beauty Salon
+TXN0754,2025-11-25,Expense,Food,Restaurant,-250.15,Cash,Local Cafe
+TXN0756,2025-11-25,Expense,Shopping,Electronics,-4167.66,,Trendyol
+TXN0760,2025-11-26,Expense,Health,Pharmacy,-858.26,Cash,Medical Park
+TXN0758,2025-11-26,Expense,Food,Restaurant,-323.21,Credit Card,CarrefourSA
+TXN0757,2025-11-26,Expense,Savings,Mutual Fund,-3523.02,Cash,IsYatirim
+TXN0759,2025-11-26,Expense,Transportation,Fuel,-243.07,Cash,Shell
+TXN0761,2025-11-27,Expense,Transportation,Public Transport,-312.42,Cash,Shell
+TXN0762,2025-11-28,Expense,Savings,Gold,-1172.58,Cash,IsYatirim
+TXN0764,2025-11-28,Expense,Food,Restaurant,-436.04,Credit Card,CarrefourSA
+TXN0765,2025-11-28,Expense,Food,Restaurant,-83.56,Credit Card,Getir
+TXN0766,2025-11-28,Expense,Food,Groceries,-193.96,Debit Card,Getir
+TXN0767,2025-11-28,Income,Salary,Monthly Salary,32485.99,Bank Transfer,TechCorp A.S.
+TXN0763,2025-11-28,Expense,Food,Groceries,-354.76,Cash,Getir
+TXN0768,2025-11-29,Expense,Food,Cafe,-311.86,Cash,CarrefourSA
+TXN0769,2025-11-30,Expense,Food,Groceries,-161.61,Credit Card,Getir
+TXN0770,2025-11-30,Expense,Personal Care,Cosmetics,-183.52,Cash,Beauty Salon
+TXN0771,2025-11-30,Expense,Transportation,Fuel,-250.2,Credit Card,Shell
+TXN0773,2025-12-01,Expense,Food,Restaurant,-61.86,Cash,Starbucks
+TXN0772,2025-12-01,Expense,Food,Restaurant,-72.67,Debit Card,Getir
+TXN0774,2025-12-01,Expense,Entertainment,Concert,-397.44,Debit Card,Biletix
+TXN0777,2025-12-01,Expense,Personal Care,Haircut,-412.33,,Beauty Salon
+TXN0776,2025-12-01,Expense,Housing,Rent,-8500.0,,Landlord
+TXN0775,2025-12-01,Income,Salary,Monthly Salary,32383.18,Bank Transfer,TechCorp A.S.
+TXN0779,2025-12-02,Expense,Transportation,Public Transport,-222.72,Cash,Ankara EGO
+TXN0780,2025-12-02,Expense,Food,Restaurant,-163.26,Cash,Getir
+TXN0778,2025-12-02,Expense,Food,Restaurant,-493.97,Debit Card,Getir
+TXN0781,2025-12-03,Expense,Transportation,Taxi,-74.38,Cash,BiTaksi
+TXN0782,2025-12-03,Expense,Savings,FX,-1216.82,Cash,Garanti BBVA
+TXN0783,2025-12-03,Expense,Shopping,Clothing,-3258.86,Cash,Zara
+TXN0784,2025-12-04,Expense,Shopping,Clothing,-5082.24,Cash,Zara
+TXN0785,2025-12-04,Expense,Entertainment,Streaming,-503.18,Debit Card,Biletix
+TXN0786,2025-12-04,Expense,Entertainment,Cinema,-92.31,Debit Card,Netflix
+TXN0787,2025-12-05,Expense,Utilities,Electricity,-95.51,Debit Card,Turkcell
+TXN0788,2025-12-05,Expense,Food,Groceries,-460.75,Debit Card,Migros
+TXN0789,2025-12-05,Expense,Transportation,Taxi,-31.01,Debit Card,BiTaksi
+TXN0791,2025-12-06,Expense,Utilities,Phone,-60.37,Debit Card,Superonline
+TXN0793,2025-12-06,Expense,Shopping,Electronics,-5034.67,Cash,MediaMarkt
+TXN0792,2025-12-06,Expense,Utilities,Water,-157.74,Debit Card,Enerjisa
+TXN0790,2025-12-06,Expense,Transportation,Taxi,-172.05,Debit Card,Shell
+TXN0794,2025-12-06,Expense,Food,Restaurant,-630.29,Cash,CarrefourSA
+TXN0795,2025-12-07,Expense,Shopping,Home,-602.76,Cash,MediaMarkt
+TXN0796,2025-12-07,Expense,Education,Book,-1281.14,Cash,Coursera
+TXN0797,2025-12-08,Expense,Food,Cafe,-634.04,Cash,Starbucks
+TXN0798,2025-12-08,Expense,Food,Cafe,-532.99,Debit Card,CarrefourSA
+TXN0799,2025-12-09,Expense,Savings,Gold,-1636.79,Cash,Garanti BBVA
+TXN0800,2025-12-10,Expense,Entertainment,Cinema,-787.75,Debit Card,Spotify
+TXN0801,2025-12-10,Expense,Education,Book,-1128.87,Credit Card,Coursera
+TXN0802,2025-12-10,Expense,food,Groceries,-448.1,Credit Card,Local Cafe
+TXN0810,2025-12-11,Expense,Savings,Mutual Fund,-4052.44,Credit Card,IsYatirim
+TXN0809,2025-12-11,Expense,Transportation,Fuel,-36.6,Credit Card,Ankara EGO
+TXN0804,2025-12-11,Expense,Entertainment,Concert,-248.14,Cash,Cinemaximum
+TXN0807,2025-12-11,Expense,Utilities,Internet,-50.96,,Enerjisa
+TXN0803,2025-12-11,Expense,Shopping,Clothing,-1248.56,Cash,Zara
+TXN0805,2025-12-11,Expense,Shopping,Clothing,-4209.3,Debit Card,Trendyol
+TXN0806,2025-12-11,Expense,Education,Course,-1218.25,Credit Card,Udemy
+TXN0808,2025-12-11,Expense,Food,Restaurant,-106.09,Credit Card,CarrefourSA
+TXN0811,2025-12-12,Expense,Transportation,Fuel,-461.07,Cash,Shell
+TXN0817,2025-12-13,Expense,Shopping,Electronics,-724.02,Debit Card,MediaMarkt
+TXN0814,2025-12-13,Expense,Savings,FX,-4022.44,Credit Card,Garanti BBVA
+TXN0816,2025-12-13,Expense,Shopping,Clothing,-302.42,Credit Card,Zara
+TXN0812,2025-12-13,Expense,Food,Groceries,-620.78,Debit Card,Migros
+TXN0815,2025-12-13,Expense,Shopping,Clothing,-2416.56,Credit Card,MediaMarkt
+TXN0813,2025-12-13,Expense,Shopping,Electronics,-807.86,Credit Card,IKEA
+TXN0818,2025-12-14,Expense,Shopping,Electronics,-2627.12,Debit Card,IKEA
+TXN0820,2025-12-15,Expense,Shopping,Home,-3510.01,,MediaMarkt
+TXN0819,2025-12-15,Expense,Shopping,Clothing,-2351.32,Debit Card,Zara
+TXN0821,2025-12-16,Expense,Health,Pharmacy,-140.81,Debit Card,Eczane
+TXN0823,2025-12-17,Expense,Shopping,Clothing,-2101.01,Debit Card,Zara
+TXN0822,2025-12-17,Expense,Education,Course,-1025.46,Cash,Coursera
+TXN0824,2025-12-18,Expense,Food,Restaurant,-63.11,Credit Card,CarrefourSA
+TXN0825,2025-12-18,Expense,Transportation,Taxi,-491.13,Cash,Ankara EGO
+TXN0826,2025-12-18,Expense,Education,Course,-1257.75,Credit Card,Udemy
+TXN0827,2025-12-19,Expense,Food,Restaurant,-335.39,Credit Card,Starbucks
+TXN0828,2025-12-19,Expense,Food,Groceries,-70.29,Cash,Starbucks
+TXN0829,2025-12-19,Expense,Shopping,Home,-527.81,Debit Card,MediaMarkt
+TXN0830,2025-12-19,Expense,Shopping,Home,-1663.24,Cash,IKEA
+TXN0831,2025-12-19,Expense,Transportation,Public Transport,-262.72,Debit Card,BiTaksi
+TXN0832,2025-12-20,Expense,Food,Groceries,-208.66,Cash,Starbucks
+TXN0833,2025-12-20,Expense,Transportation,Taxi,-237.88,Credit Card,Petrol Ofisi
+TXN0836,2025-12-21,Expense,Health,Doctor,-1158.13,,Acibadem
+TXN0834,2025-12-21,Expense,Entertainment,Concert,-129.06,Cash,Spotify
+TXN0835,2025-12-21,Expense,Food,Cafe,-323.89,Credit Card,Migros
+TXN0837,2025-12-22,Expense,Food,Groceries,-468.65,Debit Card,CarrefourSA
+TXN0839,2025-12-22,Expense,Transportation,Public Transport,-352.99,Credit Card,BiTaksi
+TXN0838,2025-12-22,Expense,Food,Restaurant,-403.82,Cash,Starbucks
+TXN0840,2025-12-23,Expense,Transportation,Fuel,-203.82,Cash,BiTaksi
+TXN0841,2025-12-25,Expense,Shopping,Electronics,-2823.14,Cash,Trendyol
+TXN0842,2025-12-26,Expense,Savings,Mutual Fund,-3066.51,Credit Card,IsYatirim
+TXN0843,2025-12-26,Expense,Savings,Mutual Fund,-1437.48,,IsYatirim
+TXN0844,2025-12-27,Expense,Shopping,Electronics,-4400.15,Credit Card,Trendyol
+TXN0845,2025-12-27,Expense,Shopping,Home,-3258.26,Credit Card,Trendyol
+TXN0846,2025-12-29,Expense,Food,Restaurant,-539.57,Debit Card,Migros
+TXN0847,2025-12-31,Expense,Entertainment,Cinema,-643.56,,Biletix
+TXN0848,2025-12-31,Expense,Personal Care,Cosmetics,-814.3,Debit Card,Gratis
+TXN0849,2025-12-31,Expense,Shopping,Electronics,-4742.99,Credit Card,MediaMarkt
+TXN0850,2025-12-31,Expense,Health,Pharmacy,-498.07,Debit Card,Medical Park
