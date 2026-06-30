@@ -1,6 +1,7 @@
 pandas
 numpy
 matplotlib
-seaborn
+
 jupyter
-faker
+openpyxl
+powerbi-client
