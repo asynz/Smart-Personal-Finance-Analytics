@@ -1,6 +1,4 @@
-"""
-generate_data.py
------------------
+'''
 Generates a realistic synthetic personal finance transaction dataset
 for "Asya" — a 25-year-old full-time professional living in Ankara —
 covering the full year 2025 (~850 transactions).
@@ -10,7 +8,7 @@ Run from the project root:
 
 Output:
     data/finance.csv
-"""
+'''
 
 import pandas as pd
 import numpy as np
